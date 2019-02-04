@@ -1,0 +1,28 @@
+.job-ad {
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+.job-ad .title {
+    margin-bottom: 1.8rem;
+}
+
+.job-ad .media-content {
+    overflow: hidden;
+}
+
+.job-ad .ad-details {
+    margin: 1.5rem 0 0 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* Company thumbnail */
+.job-ad .thumbnail {
+    align-self: center;
+    margin-right: 1.8rem;
+}
+.job-ad .thumbnail figure {
+    padding: 0.2rem;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.0784313725490196);
+}
